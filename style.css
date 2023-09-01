@@ -242,6 +242,10 @@ article footer {
 .card-image{
     width: 100%;
 }
+.main-unit{
+    columns:3;
+    margin-bottom:2em;
+}
 
 .wrapper{
     display: flex;
