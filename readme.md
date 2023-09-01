@@ -1,10 +1,10 @@
 - Responsive Design with Typescale & Grid
 
 - Mobile UI
-(./images/mobile.png) 
+![alt text](./images/mobile.png) 
 
 - Tablet UI
-(./images/tablet.png) 
+![alt text](./images/tablet.png) 
 
 - Desktop UI
-(./images/desktop.png) 
+![alt text](./images/desktop.png) 
